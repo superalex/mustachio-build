@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c9692c1d.css",
+    "main.js": "/static/js/main.03741c28.js",
+    "static/media/buffon-thin-webfont.svg": "/static/media/buffon-thin-webfont.26c93f0e91a38bd8be08.svg",
+    "static/media/karla-variablefont_wght-webfont.ttf": "/static/media/karla-variablefont_wght-webfont.059222d9ab7ffb8b7cf2.ttf",
+    "static/media/karla-variablefont_wght-webfont.svg": "/static/media/karla-variablefont_wght-webfont.b9a26402eba511a2325a.svg",
+    "static/media/karla-variablefont_wght-webfont.woff": "/static/media/karla-variablefont_wght-webfont.7098ecb20cf22c473bb3.woff",
+    "static/media/buffon-thin-webfont.ttf": "/static/media/buffon-thin-webfont.ad628754bd4306bdde8f.ttf",
+    "static/media/karla-variablefont_wght-webfont.eot": "/static/media/karla-variablefont_wght-webfont.efe4dcb7ffe9ccd5f303.eot",
+    "static/media/karla-variablefont_wght-webfont.woff2": "/static/media/karla-variablefont_wght-webfont.75067e6962ecfb702ebe.woff2",
+    "static/media/buffon-thin-webfont.woff": "/static/media/buffon-thin-webfont.f9cbdb9b1f451997e883.woff",
+    "static/media/buffon-thin-webfont.eot": "/static/media/buffon-thin-webfont.3e46f67a258d39b527ed.eot",
+    "static/media/buffon-thin-webfont.woff2": "/static/media/buffon-thin-webfont.55c180f7859cb78b3791.woff2",
+    "index.html": "/index.html",
+    "main.c9692c1d.css.map": "/static/css/main.c9692c1d.css.map",
+    "main.03741c28.js.map": "/static/js/main.03741c28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9692c1d.css",
+    "static/js/main.03741c28.js"
+  ]
+}
